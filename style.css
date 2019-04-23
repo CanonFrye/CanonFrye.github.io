@@ -46,8 +46,8 @@ img {
 }
 
 .bigDiv{
-    text-align:center;
     float:right;
+    margin-right:5px;
 }
 
 .intro {

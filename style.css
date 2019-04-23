@@ -26,7 +26,7 @@ a {
 .pagelinks {
     float: left;
     width: 150px;
-    height: 625px;
+    height: 500px;
     margin: auto;
     padding: 25px;
     background-color: lightgray;
@@ -35,9 +35,9 @@ a {
 }
 
 .pagelinks:hover {
-        font-size: 125%;
-        background-color: black;
-        border: double white 15px;
+    font-size: 125%;
+    background-color: black;
+    border: double white 15px;
 }
 
 img {
@@ -46,8 +46,8 @@ img {
 }
 
 .bigDiv{
-    margin-left:auto;
-    margin-right:auto;
+    margin-left:50%;
+    margin-right:50%;
 }
 
 .intro {

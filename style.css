@@ -46,7 +46,7 @@ img {
 }
 
 .bigDiv{
-    display:inline-block;
+    display:block;
     text-align:center;
     float:right;
 }

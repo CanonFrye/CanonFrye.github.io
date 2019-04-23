@@ -34,17 +34,20 @@ a {
     border: double black 15px;
 }
 
-    .pagelinks:hover {
+.pagelinks:hover {
         font-size: 125%;
         background-color: black;
         border: double white 15px;
-    }
+}
 
 img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
     width: 40%;
+}
+
+.bigDiv{
+    margin-left:auto;
+    margin-right:auto;
 }
 
 .intro {
@@ -55,8 +58,6 @@ img {
     text-align: center;
     border: double black 15px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
     width: 40%;
 }
 

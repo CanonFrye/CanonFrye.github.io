@@ -40,18 +40,23 @@ a {
     border: double white 15px;
 }
 
-img {
+/*img {
     display: block;
     width: 40%;
+}*/
+
+.bigDiv {
+    background-color: lightgray;
+    color: black;
+    font-size: 150%;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    border: double black 15px;
 }
 
-.bigDiv{
-    margin:auto;
-    width:100%;
-    text-align:center;
-}
-
-.intro {
+/*.intro {
     background-color: lightgray;
     color: black;
     font-size: 150%;
@@ -60,7 +65,7 @@ img {
     border: double black 15px;
     display: block;
     width: 40%;
-}
+}*/
 
 .aboutIntro {
     background-color: lightgray;
